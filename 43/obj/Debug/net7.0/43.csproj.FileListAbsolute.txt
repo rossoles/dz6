@@ -1,0 +1,15 @@
+C:\Users\Рус\Desktop\dz6\43\bin\Debug\net7.0\43.exe
+C:\Users\Рус\Desktop\dz6\43\bin\Debug\net7.0\43.deps.json
+C:\Users\Рус\Desktop\dz6\43\bin\Debug\net7.0\43.runtimeconfig.json
+C:\Users\Рус\Desktop\dz6\43\bin\Debug\net7.0\43.dll
+C:\Users\Рус\Desktop\dz6\43\bin\Debug\net7.0\43.pdb
+C:\Users\Рус\Desktop\dz6\43\obj\Debug\net7.0\43.csproj.AssemblyReference.cache
+C:\Users\Рус\Desktop\dz6\43\obj\Debug\net7.0\43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рус\Desktop\dz6\43\obj\Debug\net7.0\43.AssemblyInfoInputs.cache
+C:\Users\Рус\Desktop\dz6\43\obj\Debug\net7.0\43.AssemblyInfo.cs
+C:\Users\Рус\Desktop\dz6\43\obj\Debug\net7.0\43.csproj.CoreCompileInputs.cache
+C:\Users\Рус\Desktop\dz6\43\obj\Debug\net7.0\43.dll
+C:\Users\Рус\Desktop\dz6\43\obj\Debug\net7.0\refint\43.dll
+C:\Users\Рус\Desktop\dz6\43\obj\Debug\net7.0\43.pdb
+C:\Users\Рус\Desktop\dz6\43\obj\Debug\net7.0\43.genruntimeconfig.cache
+C:\Users\Рус\Desktop\dz6\43\obj\Debug\net7.0\ref\43.dll
